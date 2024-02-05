@@ -55,5 +55,5 @@ This is a simple web application for managing and storing notes. The application
 
 ## Screenshots
 
-    ![Screenshot 1](Develop/Home_Page.jpg)
-    ![Screenshot 2](Develop/UI.jpg)
+    ![Screenshot 1](./Develop/Home_Page.jpg)
+    ![Screenshot 2](./Develop/UI.jpg)
